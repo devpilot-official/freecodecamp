@@ -1,2 +1,1 @@
-# freecodecamp
-Trying out something here
+# Backend Challenges boilerplate - package.json
