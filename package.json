@@ -1,6 +1,6 @@
 {
-	"author": "Muhammed Saifudeen Salaudeen",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Muhammed Saifudeen Salaudeen",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
