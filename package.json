@@ -1,18 +1,20 @@
 {
-	"name": "fcc-learn-npm-package-json",
 	"author": "Muhammed Saifudeen Salaudeen",
+	"description": "This is a project that does something awesome",
+	"name": "fcc-learn-npm-package-json",
+	"keywords": [ "descriptive", "related", "words" ],
 	"dependencies": {
-		"express": "^4.14.0"
+	  "express": "^4.17.1"
 	},
 	"main": "server.js",
 	"scripts": {
-		"start": "node server.js"
+	  "start": "node server.js"
 	},
 	"engines": {
-		"node": "8.11.2"
+	  "node": "8.11.2"
 	},
 	"repository": {
-		"type": "git",
-		"url": "https://idontknow/todo.git"
+	  "type": "git",
+	  "url": "https://idontknow/todo.git"
 	}
 }
